@@ -1,2 +1,2 @@
 email : gogo0920007@gmail.com
-gitID : JunhyungKang
+gitID : JunhyungKang 2
